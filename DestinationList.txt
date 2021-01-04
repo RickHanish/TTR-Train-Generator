@@ -1,0 +1,264 @@
+Vancouver
+2
+Seattle
+Calgary
+
+Seattle
+4
+Vancouver
+Calgary
+Helena
+Portland
+
+Portland
+3
+Seattle
+Salt Lake City
+San Francisco
+
+San Francisco
+3
+Portland
+Salt Lake City
+Los Angeles
+
+Los Angeles
+4
+San Francisco
+Las Vegas
+Phoenix
+El Paso
+
+Calgary
+4
+Vancouver
+Seattle
+Helena
+Winnipeg
+
+Helena
+7
+Calgary
+Seattle
+Salt Lake City
+Denver
+Omaha
+Duluth
+Winnipeg
+
+Salt Lake City
+5
+Portland
+San Francisco
+Helena
+Denver
+Las Vegas
+
+Las Vegas
+2
+Salt Lake City
+Los Angeles
+
+Phoenix
+4
+Los Angeles
+Denver
+Santa Fe
+El Paso
+
+El Paso
+6
+Los Angeles
+Phoenix
+Santa Fe
+Oklahoma City
+Dallas
+Houston
+
+Santa Fe
+4
+Denver
+Oklahoma City
+El Paso
+Phoenix
+
+Denver
+7
+Helena
+Omaha
+Kansas City
+Oklahoma City
+Santa Fe
+Salt Lake City
+Phoenix
+
+Winnipeg
+4
+Calgary
+Helena
+Duluth
+Sault St. Marie
+
+Duluth
+6
+Helena
+Winnipeg
+Sault St. Marie
+Toronto
+Chicago
+Omaha
+
+Omaha
+5
+Helena
+Duluth
+Chicago
+Kansas City
+Denver
+
+Kansas City
+4
+Omaha
+Saint Louis
+Oklahoma City
+Denver
+
+Oklahoma City
+6
+Kansas City
+Little Rock
+Dallas
+El Paso
+Santa Fe
+Denver
+
+Dallas
+4
+Oklahoma City
+Little Rock
+Houston
+El Paso
+
+Houston
+3
+Dallas
+New Orleans
+El Paso
+
+Sault St. Marie
+4
+Winnipeg
+Duluth
+Toronto
+Montreal
+
+Toronto
+5
+Sault St. Marie
+Montreal
+Pittsburgh
+Chicago
+Duluth
+
+Chicago
+6
+Duluth
+Toronto
+Pittsburgh
+Saint Louis
+Omaha
+Duluth
+
+Saint Louis
+5
+Chicago
+Pittsburgh
+Nashville
+Little Rock
+Kansas City
+
+Little Rock
+5
+Saint Louis
+Nashville
+New Orleans
+Dallas
+Oklahoma City
+
+New Orleans
+4
+Houston
+Little Rock
+Atlanta
+Miami
+
+Atlanta
+5
+Nashville
+Raleigh
+Charleston
+Miami
+New Orleans
+
+Nashville
+5
+Pittsburgh
+Raleigh
+Atlanta
+Little Rock
+Saint Louis
+
+Pittsburgh
+7
+Toronto
+New York
+Washington
+Raleigh
+Nashville
+Saint Louis
+Chicago
+
+Charleston
+3
+Raleigh
+Atlanta
+Miami
+
+Miami
+3
+New Orleans
+Atlanta
+Charleston
+
+Raleigh
+4
+Washington
+Nashville
+Atlanta
+Charleston
+
+Washington
+3
+New York
+Pittsburgh
+Raleigh
+
+New York
+4
+Boston
+Montreal
+Pittsburgh
+Washington
+
+Boston
+2
+Montreal
+New York
+
+Montreal
+4
+Sault St. Marie
+Toronto
+New York
+Boston
+
